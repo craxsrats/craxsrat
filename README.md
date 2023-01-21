@@ -72,7 +72,7 @@
     🔸even pin of screen lock
 
 [×]   𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 (𝗕𝗲𝘁𝗮)
-    🔸Replace phone keyboard with                 🟢Spyroid Rat custom keyboard
+    🔸Replace phone keyboard with rat custom keyboard
     🔸Support 3 languages
     🔺English,
     🔺Arabic,
